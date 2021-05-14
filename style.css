@@ -9,6 +9,11 @@ body{
   text-align: center;
 }
 
+body h1{
+  font-size: 40px;
+  margin: 20px 0;
+}
+
 .quadrado{
   width: 130px;
   text-align: center;
